@@ -49,4 +49,5 @@ Some of the well-established pre-trained CNN models have been trained and evalua
 # Conclusion:
 The project uses a CNN-based approach to classify Phonocardiogram (PCG) signals, distinguishing between normal and abnormal cardiac states. Several pretrained models were tested, and VGG19 delivered the best performance, achieving 89% training accuracy and 87% testing accuracy. Its superior feature extraction capabilities make it highly effective for automated cardiac diagnostics, aiding healthcare professionals in early detection and treatment of cardiovascular diseases. Future improvements could involve refined data preprocessing and model fine-tuning to further enhance accuracy.
 
-Published paper: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003513445-10/pcg-classification-using-scalogram-cnn-classifier-maibam-mangalleibi-chanu-ksh-merina-devi-khumbongmayum-belona-devi-preceela-chanu-irengbam-shougaijam-neroda-devi 
+# Published paper: 
+Chanu, Maibam Mangalleibi, Ksh Merina Devi, Khumbongmayum Belona Devi, Preceela Chanu Irengbam, and Shougaijam Neroda Devi. "PCG classification using scalogram and CNN classifier." In Security Issues in Communication Devices, Networks and Computing Models, pp. 86-96. CRC Press. 
